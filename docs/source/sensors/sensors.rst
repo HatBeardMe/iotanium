@@ -45,7 +45,7 @@ Add a Light Sensor
 --------------------- 
 Locate the photocell in the bag of components.  It has two long legs, and a wavy pattern on its face (see image below to help identify your photocell).  The photocell is used to measure the intensity of light.  Follow the instructions below to connect your photocell to your IoTanium dev board:
 
-- **Disconnect** the following connections made in the previous step:
+- Before proceeding, it's important to disconnect power from the breadboard to avoid damanging components, or the IoTanium board. **Disconnect** the following connections made in the previous step (alternatively remove the power source on the IoTanium board):
    - The connection between B15 and the red (+) rail.
    - The connection between H15 and the blue (-) rail.
 
