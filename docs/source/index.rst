@@ -17,4 +17,5 @@ Onica IoTanium Developer Kit Lab
    iot_hello_world/iot_hello_world
    features/features
    sensors/sensors
+   diy_challenge/diy_challenge
    hints/hints
